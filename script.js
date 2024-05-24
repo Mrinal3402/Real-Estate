@@ -255,59 +255,59 @@ window.addEventListener("resize", function () {
 
 function files(index) {
   var data = `
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00004.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00007.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00010.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00013.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00016.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00019.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00022.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00025.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00028.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00031.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00034.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00037.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00040.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00043.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00046.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00049.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00052.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00055.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00058.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00061.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00064.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00067.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00070.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00073.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00076.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00079.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00082.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00085.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00088.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00091.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00094.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00097.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00100.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00103.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00106.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00109.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00112.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00115.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00118.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00121.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00124.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00127.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00130.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00133.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00136.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00139.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00142.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00145.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00148.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00151.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00154.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00157.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\bridges00160.png
+  bridges00004.png
+  bridges00007.png
+  bridges00010.png
+  bridges00013.png
+  bridges00016.png
+  bridges00019.png
+  bridges00022.png
+  bridges00025.png
+  bridges00028.png
+  bridges00031.png
+  bridges00034.png
+  bridges00037.png
+  bridges00040.png
+  bridges00043.png
+  bridges00046.png
+  bridges00049.png
+  bridges00052.png
+  bridges00055.png
+  bridges00058.png
+  bridges00061.png
+  bridges00064.png
+  bridges00067.png
+  bridges00070.png
+  bridges00073.png
+  bridges00076.png
+  bridges00079.png
+  bridges00082.png
+  bridges00085.png
+  bridges00088.png
+  bridges00091.png
+  bridges00094.png
+  bridges00097.png
+  bridges00100.png
+  bridges00103.png
+  bridges00106.png
+  bridges00109.png
+  bridges00112.png
+  bridges00115.png
+  bridges00118.png
+  bridges00121.png
+  bridges00124.png
+  bridges00127.png
+  bridges00130.png
+  bridges00133.png
+  bridges00136.png
+  bridges00139.png
+  bridges00142.png
+  bridges00145.png
+  bridges00148.png
+  bridges00151.png
+  bridges00154.png
+  bridges00157.png
+  bridges00160.png
 
   
   
