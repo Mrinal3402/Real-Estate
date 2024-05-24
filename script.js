@@ -76,72 +76,71 @@ window.addEventListener("resize", function () {
 
 function files(index) {
   var data = `
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00007.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00010.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00013.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00016.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00019.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00022.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00025.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00028.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00031.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00034.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00037.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00040.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00043.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00046.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00049.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00052.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00055.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00058.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00061.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00064.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00067.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00070.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00073.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00076.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00079.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00082.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00085.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00088.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00091.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00094.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00097.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00100.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00103.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00106.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00109.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00112.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00115.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00118.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00121.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00124.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00127.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00130.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00133.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00136.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00139.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00142.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00145.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00148.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00151.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00154.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00157.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00160.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00163.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00166.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00169.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00172.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00175.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00178.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00181.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00184.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00187.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00190.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00193.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00196.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00199.png
-  C:\\Users\\hp\\Desktop\\FrontEnd\\LoveBabbr\\website project\\canva project\\frames00202.png
+  frames00007.png
+  frames00010.png
+  frames00013.png
+  frames00016.png
+  frames00019.png
+  frames00022.png
+  frames00025.png
+  frames00028.png
+  frames00031.png
+  frames00034.png
+  frames00037.png
+  frames00040.png
+  frames00043.png
+  frames00046.png
+  frames00049.png
+  frames00052.png
+  frames00055.png
+  frames00058.png
+  frames00061.png
+  frames00064.png
+  frames00067.png
+  frames00070.png
+  frames00073.png
+  frames00076.png
+  frames00079.png
+  frames00082.png
+  frames00085.png
+  frames00088.png
+  frames00091.png
+  frames00094.png
+  frames00097.png
+  frames00100.png
+  frames00103.png
+  frames00106.png
+  frames00112.png
+  frames00115.png
+  frames00118.png
+  frames00121.png
+  frames00124.png
+  frames00127.png
+  frames00130.png
+  frames00133.png
+  frames00136.png
+  frames00139.png
+  frames00142.png
+  frames00145.png
+  frames00148.png
+  frames00151.png
+  frames00154.png
+  frames00157.png
+  frames00160.png
+  frames00163.png
+  frames00166.png
+  frames00169.png
+  frames00172.png
+  frames00175.png
+  frames00178.png
+  frames00181.png
+  frames00184.png
+  frames00187.png
+  frames00190.png
+  frames00193.png
+  frames00196.png
+  frames00199.png
+  frames00202.png
   
 
  `;
